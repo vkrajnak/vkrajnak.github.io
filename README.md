@@ -2,9 +2,9 @@
 
 I'm an applied mathematician interested in developing theory and numerical tools in dynamical systems and using them to better understand the world around us.
 
-### About
+### Keywords
 
-Keywords: phase space transport, invariant structures, chaos, roaming reactions, active learning, lagrangian descriptors.
+Phase space transport, invariant structures, chaos, roaming reactions, active learning, lagrangian descriptors.
 
 ### Links
 

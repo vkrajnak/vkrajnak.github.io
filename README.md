@@ -9,7 +9,10 @@ Should you be facing technical challenges that require a creative solution, plea
 
 ### Keywords
 
-Interdisciplinary researcher, AI, mathematics, unconventional problem solving.
+ - Interdisciplinary research,
+ - AI,
+ - applied mathematics,
+ - unconventional problem solving.
 
 ### Links
 

@@ -13,8 +13,8 @@ Interdisciplinary researcher, AI, mathematics, unconventional problem solving.
 
 ### Links
 
-<i class="fa-brands fa-linkedin-in"></i>[Linkedin](https://www.linkedin.com/in/vladi-krajnak-maths-ai/)  
-[Orcid](https://orcid.org/0000-0001-6052-7531)  
-[Google Scholar](https://scholar.google.com/citations?user=ac529yMAAAAJ&hl=en)  
-[Researchgate](https://www.researchgate.net/profile/Vladimir-Krajnak)  
-[arXiv](http://arxiv.org/a/0000-0001-6052-7531.html)  
+<i class="fa-brands fa-linkedin-in"></i>  [Linkedin](https://www.linkedin.com/in/vladi-krajnak-maths-ai/)  
+<i class="ai ai-orcid"></i>  [Orcid](https://orcid.org/0000-0001-6052-7531)  
+<i class="ai ai-google-scholar"></i>  [Google Scholar](https://scholar.google.com/citations?user=ac529yMAAAAJ&hl=en)  
+<i class="ai ai-researchgate"></i>  [Researchgate](https://www.researchgate.net/profile/Vladimir-Krajnak)  
+<i class="ai ai-arxiv"></i>  [arXiv](http://arxiv.org/a/0000-0001-6052-7531.html)  

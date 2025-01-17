@@ -19,42 +19,42 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}" style="color: Black;">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         <div class="publication-servers">
 
             {% if site.github.is_user_page %}
-              <a href="{{ site.github.owner_url }}">
+              <a href="{{ site.github.owner_url }}" style="color: Black;">
                 <i class="fa-brands fa-github fa-2x"></i>
               </a>
                   {% endif %}
         <!--
             {% if site.linked_in %}
-              <a href="http://linkedin.com/in/{{ site.linked_in }}.html">
+              <a href="http://linkedin.com/in/{{ site.linked_in }}.html" style="color: Black;">
                 <i class="fa-brands fa-linkedin-in fa-2x"></i>
               </a>
                   {% endif %}
           
             {% if site.orcid_id %}
-              <a href="http://orcid.org/{{ site.orcid_id }}">
+              <a href="http://orcid.org/{{ site.orcid_id }}" style="color: Black;">
                 <i class="ai ai-orcid ai-2x"></i>
               </a>
                   {% endif %}
 
             {% if site.google_sch %}
-              <a href="https://scholar.google.com/citations?user={{ site.google_sch }}">
+              <a href="https://scholar.google.com/citations?user={{ site.google_sch }}" style="color: Black;">
                 <i class="ai ai-google-scholar ai-2x"></i>
               </a>
                   {% endif %}
             
             {% if site.researchgate_id %}
-              <a href="https://www.researchgate.net/profile/{{ site.researchgate_id }}">
+              <a href="https://www.researchgate.net/profile/{{ site.researchgate_id }}" style="color: Black;">
                 <i class="ai ai-researchgate ai-2x"></i>
               </a>
                   {% endif %}
           
             {% if site.arxiv_id %}
-              <a href="http://arxiv.org/a/{{ site.arxiv_id }}.html">
+              <a href="http://arxiv.org/a/{{ site.arxiv_id }}.html" style="color: Black;">
                 <i class="ai ai-arxiv ai-2x"></i>
               </a>
                   {% endif %}
@@ -68,7 +68,7 @@
         {% endif %}
 
         {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        <p class="view"><a href="{{ site.github.repository_url }}" style="color: Black;">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
         {% if site.show_downloads %}

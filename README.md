@@ -1,6 +1,6 @@
 ### About
 
-I am an interdisciplinary researcher interested in problems with no known solution. So far I have worked:
+I am a researcher in AI/applied mathematics interested in problems with no known solution. So far I have worked:
  - on applying dynamical systems theory to chemical reactions,
  - building generative models to predict tripeptide conformations,
  - speeding up and improving segmentation models for real-time video augmentation,
